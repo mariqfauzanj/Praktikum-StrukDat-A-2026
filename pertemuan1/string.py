@@ -61,3 +61,21 @@ p = "Halo,"
 q = "saya"
 r = p + " " + q + " Ariq."
 print(r) # output : Halo, saya Ariq.
+
+# F-string
+umur = 19
+pesan = f"Saya Ariq, saya berumur {umur} tahun."
+print(pesan) # output : Saya Ariq, saya berumur 19 tahun.
+
+# Placeholder
+harga = 5
+pesan = f"Harga dompet di Amerika sekitar {harga:.2f} dollar US."
+print(pesan) # output : Harga dompet di Amerika sekitar 5.00 dollar US.
+
+# Placeholder (dengan operasi matematika)
+pesan = f"Harga pesanan sekitar {20 * 5} dollar"
+print(pesan ) # output : Harga pesanan sekitar 100 dollar
+
+# escape character
+text = "Ibu berkata, \"Jangan pulang kemalaman!\""
+print(text) # output : Ibu berkata, "Jangan pulang kemalaman!"
