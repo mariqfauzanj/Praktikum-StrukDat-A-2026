@@ -5,8 +5,8 @@ print('Hapus aku!') # output : Hapus aku!
 print("Hapus aku!") # output : Hapus aku!
 
 # penggunaan assignment string ke variabel
-nama = "Ariq"
-print(nama) # output : Ariq
+nama = 'Nama saya "Ariq"'
+print(nama) # output : Nama saya "Ariq"
 
 # multiline string
 kebun = """Lihat kebunku, penuh dengan bunga."""
