@@ -30,7 +30,7 @@ print(b[:5])     # output : Dua t
 print(b[5:])     # output : iga empat lima
 
 # Slicing negative index
-print(b[-5:-2])  # output : lim
+print(b[-5:-2])  # output : li
 
 # Looping string
 for x in "Ariq":
