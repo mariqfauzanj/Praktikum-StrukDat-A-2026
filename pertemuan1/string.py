@@ -17,7 +17,7 @@ print(bunga) # output : Ada melati dan ada yang mawar.
 
 # String array
 arrA = "Armada"
-print(arrA[4])  # output : a
+print(arrA[4])  # output : d
 
 # Slicing string
 b = "Dua tiga empat lima"
