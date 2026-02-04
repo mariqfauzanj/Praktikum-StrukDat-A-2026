@@ -27,10 +27,10 @@ print(b[2:3])    # output : a
 print(b[:5])     # output : Dua t
 
 # Slicing sampai end
-print(b[5:])     # output : tiga empat lima
+print(b[5:])     # output : iga empat lima
 
 # Slicing negative index
-print(b[-5:-2])  # output : mil
+print(b[-5:-2])  # output : lim
 
 # Looping string
 for x in "Ariq":
