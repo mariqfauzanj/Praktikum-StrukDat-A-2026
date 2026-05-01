@@ -1,3 +1,9 @@
+'''
+Nama : Muhammad Ariq Fauzan Jatmika
+NIM  : 25071206991
+Kelas: TI-A
+'''
+
 class Node:
     def __init__(self, id_buku, judul):
         self.id_buku = id_buku
