@@ -1,0 +1,2 @@
+import soal1, soal2, soal3, soal4
+
